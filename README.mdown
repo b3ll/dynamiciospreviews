@@ -4,4 +4,6 @@
 
 Just a simple demo of what I think dynamic app previews could look like. I use Instagram as an example and show that in the iOS 7 app switcher, recent photos could be shown as a preview for Tnstagram, instead of the UITableView feed it does by default.
 
+Feel free to check out my writeup about it [here](http://blog.adambell.ca/post/73339778302/dynamic-ios-multitasking).
+
 **Loads of this is not App Store safe** :P
